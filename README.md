@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am from Singapore 🇸🇬🇸🇬🇸🇬
+
+🔭 I’m currently working on KakiSG, I worked at a Tech-for-Public-Good organisation and I love solving problems :)
+
 <!--
 **kmye/kmye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
